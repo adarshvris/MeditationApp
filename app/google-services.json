@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "932354539380",
+    "firebase_url": "https://adarsh-meditation-app.firebaseio.com",
+    "project_id": "adarsh-meditation-app",
+    "storage_bucket": "adarsh-meditation-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:932354539380:android:7da69e5f8bb28a1711b621",
+        "android_client_info": {
+          "package_name": "com.adarsh.adarshmeditationapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "932354539380-fn1vcsikenfbtnb08ss4eeo5hd4jc458.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.adarsh.adarshmeditationapp",
+            "certificate_hash": "d03cb22fbc6a55e4ec927644f096c67c6f8ec695"
+          }
+        },
+        {
+          "client_id": "932354539380-k5dbvghl45o0fftvnpu4fgqn6adnm908.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCTW_Xqa4M6kPdcVPGxYAN3DjKHikEesKY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "932354539380-k5dbvghl45o0fftvnpu4fgqn6adnm908.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Adarsh Meditation App</string>
+    <string name="anonymous">Anonymous</string>
+    <string name="retry">Retry</string>
+    <string name="loading">Loading…</string>
+    <string name="meditation">Meditation</string>
+    <string name="calm_down">Calm Down</string>
+    <string name="de_stress">Destress</string>
+    <string name="relax">Relax</string>
+    <string name="no_network_available">No network available!</string>
+</resources>
